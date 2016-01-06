@@ -65,14 +65,14 @@ div#buildinfo {
 
 .main-footer {
   width: 100%;
-  height: 150px;
+  height: 250px;
   position: absolute;
   bottom: 0;
   left: 0;
 }
 
 #docs {
-  margin-bottom: 180px;
+  margin-bottom: 280px;
 }
 
 .off-canvas-wrap {
@@ -207,7 +207,7 @@ div#buildinfo {
 .tutorial h1 {
   color: #24B8EB;
   font-weight: 300;
-  font-size: 30px;
+  font-size: 36px;
   margin-top: 2rem;
 }
 
@@ -228,23 +228,23 @@ div#buildinfo {
 }
 
 .tutorial p {
-  font-size: 26px;
-  line-height: .5rem;
+  font-size: 16px;
+  line-height: 1.5rem;
   margin-top: .5rem;
-  margin-bottom: .5rem;
+  margin-bottom: 1rem;
 
 }
 
 .tutorial ul {
   font-size: 16px;
-  line-height: .5rem;
-  margin-bottom: .5rem;
+  line-height: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .tutorial ol {
   font-size: 16px;
-  line-height: .5rem;
-  margin-bottom: .5rem;
+  line-height: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .tutorial strong {
